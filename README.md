@@ -1,7 +1,7 @@
-# Basic-ajax-request
+# Simpe Ajax Request
 
-**This** demonstrates a basic AJAX request. It loops through the data and renders into a dropdown.
+**This** example is a simpe ajax request, which loops through the json file and displays the categories.
 
 ### To run on local server
 
-	$ python -m SimpleHTTPServer 8000
+	$ python -m SimpleHTTPServer 3000
