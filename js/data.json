@@ -1,0 +1,27 @@
+{
+    "categories": [{
+        "cname": "Landscape",
+        "noofUploads": 66
+    },
+    {
+        "cname": "Portrait",
+        "noofUploads": 20
+    },
+    {
+        "cname": "Nature",
+        "noofUploads": 89
+    },
+    {
+        "cname": "Bird",
+        "noofUploads": 67
+    },
+    {
+        "cname": "Macro",
+        "noofUploads": 42
+    },
+    {
+        "cname": "Family",
+        "code": 300
+    }]
+
+}
